@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="paddingScreen">1dp</dimen>
+    <dimen name="rowOfNumberSize">16sp</dimen>
+    <dimen name="resultNumberSize">48sp</dimen>
+    <dimen name="buttonTextSize">18sp</dimen>
+    <dimen name="buttonSize">64dp</dimen>
+    <dimen name="rowMargin">16dp</dimen>
+    <dimen name="marginTopParent">90dp</dimen>
+</resources>
